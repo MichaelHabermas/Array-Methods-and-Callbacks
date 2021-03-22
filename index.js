@@ -85,7 +85,7 @@ function getAverageGoals() {
 
 /// 🥅 STRETCH 🥅 ///
 
-/* 💪💪💪💪💪 Stretch 1: 💪💪💪💪💪 
+/* 💪💪💪💪💪 Stretch 1: 💪💪💪💪 
 Create a function called `getCountryWins` that takes the parameters `data` and `team initials` and returns the number of world cup wins that country has had. 
 
 Hint: Investigate your data to find "team initials"!
